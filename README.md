@@ -1,6 +1,10 @@
 # How-to-Start-Serverless-
 This repository share the material about how an individual can start his serverless journey with AWS.
 
+![image](https://user-images.githubusercontent.com/57103671/177566963-1bf7d260-2394-4fea-ad69-3563b1d367bc.png)
+
+
+
 # Resources:
 
 https://aws.amazon.com/api-gateway/
