@@ -29,6 +29,7 @@ https://medium.com/@m.shakeel0581/lambda-function-url-deactivating-function-urls
 https://aws.amazon.com/architecture/serverless/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all
 
 ## Video Link:
+will be provided soon
 
 
 
